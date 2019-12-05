@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajharper01/savvy-coders-practice.git"
+    "url": "git+https://https://github.com/ajharper01/capstone-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajharper01/savvy-coders-practice/issues"
+    "url": "https://https://github.com/ajharper01/capstone-project/issues"
   },
-  "homepage": "https://github.com/ajharper01/savvy-coders-practice#readme",
+  "homepage": "https://https://github.com/ajharper01/capstone-project#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
     "eslint-config-prettier": "^6.5.0",
